@@ -1,0 +1,9 @@
+Day 1
+
+1. The blockchain is public database in which data is distributed among nodes in a network. 
+
+2. A smart contract is a rulebook that includes what programs should run and how you as the user should interact with these programs. 
+
+3. A script is where we can read information provided to us by the blockchain. A transaction is a way to call functions provided in the contract. These transactions cost money. 
+
+4. Testnet is an environment for developers to try their contracts out without negative consequences or impact to others. Mainnet is an environment where everything is real and where transactions cost real money. 
